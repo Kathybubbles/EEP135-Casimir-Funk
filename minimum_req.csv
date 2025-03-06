@@ -1,0 +1,21 @@
+Nutrition,Source,F 19-30,M 19-30
+Energy,---,2000,2400
+Protein,RDA,46,56
+"Fiber, total dietary",---,28,33.6
+"Folate, DFE",RDA,400,400
+"Calcium, Ca",RDA,1000,1000
+"Carbohydrate, by difference",RDA,130,130
+"Iron, Fe",RDA,18,8
+"Magnesium, Mg",RDA,310,400
+Niacin,RDA,14,16
+"Phosphorus, P",RDA,700,700
+"Potassium, K",AI,4700,4700
+Riboflavin,RDA,1.1,1.3
+Thiamin,RDA,1.1,1.2
+"Vitamin A, RAE",RDA,700,900
+Vitamin B-12,RDA,2.4,2.4
+Vitamin B-6,RDA,1.3,1.3
+"Vitamin C, total ascorbic acid",RDA,75,90
+Vitamin E (alpha-tocopherol),RDA,15,15
+Vitamin K (phylloquinone),AI,90,120
+"Zinc, Zn",RDA,8,11
