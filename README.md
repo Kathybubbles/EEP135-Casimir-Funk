@@ -8,7 +8,7 @@ Trader Joe's is a popular grocer that many college students rely on for easy and
 Vegetarian, vegan, omnivore, carnivore, keto, and allergen-friendly.
 
 ## Methods
-We first affixed price data prices from the third-party price tracker traderjoesprices.com to the collection of Trader Joe's items the FDA includes in the FDC, which includes nutrition information.
+We first affixed price data prices from the third-party price tracker traderjoesprices.com to the collection of Trader Joe's items the USDA included in the FDC, which includes nutrition information.
 
 We then created a function that filters this subset of items to fit various items, narrowing our possibility matrix.
 
