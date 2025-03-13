@@ -29,17 +29,19 @@ Using a linear program, we then solved for the lowest-cost shopping list to meet
 
 ## Files
 
+All of our code can be found in the project_two_final.ipynb file!
+
 [A] Description of population of interest
 
 Can be found in our first slide and also described in our overview above as well
 
 [A] Dietary Reference Intakes
 
-In the file named DRI_Function.py
+In the DRI_Function.py & project_two_final.ipynb file
 
 [A] Data on prices for different foods
 
-Can be found in all our csv files and refer to nutrientdata.ipynb on how they are made
+Can be found in all our csv files. Can refer to nutrientdata.ipynb or the project_two_final.ipynb file on how they are made
 
 [A] Nutritional content of different foods
 
@@ -47,7 +49,7 @@ In slides 11 - 22
 
 [A] Solution
 
-Function can be found in nutrientdata.ipynb
+Function can be found in nutrientdata.ipynb & project_two_final.ipynb
 
 [B] Is your solution edible?
 
