@@ -30,34 +30,45 @@ Using a linear program, we then solved for the lowest-cost shopping list to meet
 ## Files
 
 [A] Description of population of interest
-Can be found in our first few slides and also described in our overview above as well
+
+Can be found in our first slide and also described in our overview above as well
 
 [A] Dietary Reference Intakes
+
 In the file named DRI_Function.py
 
 [A] Data on prices for different foods
-can be found in all our csv files and refer to nutrientdata.ipynb on how they are made
+
+Can be found in all our csv files and refer to nutrientdata.ipynb on how they are made
 
 [A] Nutritional content of different foods
-refer to slides
+
+In slides 11 - 22
 
 [A] Solution
-function can be found in nutrientdata.ipynb
+
+Function can be found in nutrientdata.ipynb
 
 [B] Is your solution edible?
-shared on edstem and made the food for potluck
+
+Shared on edstem and made the food for potluck
 
 [B] Meal Reviews
-included in slides and reviewed during potluck as well
+
+Included in slides (slide 28) and reviewed during potluck as well
 
 [B] What is total cost for population of interest?
-refer to slides
+
+On slide 25
 
 [B] Review of Your Code
-see issues resolved
+
+See issues resolved
 
 [B] Review of Another Team's Code
-see issues created to other teams
+
+See issues created to other teams
 
 [A] Presentation
+
 Recorded and done
