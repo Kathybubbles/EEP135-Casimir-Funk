@@ -1,5 +1,13 @@
 # EEP135-Casimir-Funk
 
+## Team Members
+Evan Anderson - https://github.com/eandersonflint & eandersonflint@berkeley.edu
+Jing Huang - https://github.com/hjing0117 & hjing0117@berkeley.edu
+Shrija Malla - https://github.com/shrija-malla & shrija@berkeley.edu
+Katy Qin - https://github.com/Kathybubbles & starrynight@berkeley.edu
+Xiaolong Wang - https://github.com/Justinwxl & justinwx@berkeley.edu
+Xi Wang - https://github.com/XiW00 & wangxi1125000@berkeley.edu
+
 ## Project Overview
 College undergraduates like all of us at Berkeley face many constraints when it comes to eating a healthy diet. We often don't have the time, money, space, equipment, nor patience to prepare fully-formed, well-cooked meals from scratch. Additionally, many of us follow diets that change what a well-rounded meal may look like.
 
