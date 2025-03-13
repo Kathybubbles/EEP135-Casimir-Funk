@@ -5,7 +5,7 @@ College undergraduates like all of us at Berkeley face many constraints when it 
 
 Trader Joe's is a popular grocer that many college students rely on for easy and affordable meals. Using a subset of Trader Joe's items, specifically novelty and pre-prepared items, excluding fresh produce, we aim to find the most affordable shopping list to satisfy the FDA's recommended dietary intakes for the following diets:
 
-Vegetarian, vegan, omnivore, carnivore, keto, and allergen-friendly.
+Vegetarian, vegan, omnivore, carnivore, high fat and low carb, and allergen-friendly.
 
 ## Methods
 We first affixed price data prices from the third-party price tracker traderjoesprices.com to the collection of Trader Joe's items the USDA included in the FDC, which includes nutrition information.
